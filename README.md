@@ -1,2 +1,2 @@
 # Personal webpage
-:globe_with_meridians: Link: https://lalitmahale.github.io
+:globe_with_meridians: https://daweedkob.github.io
